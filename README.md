@@ -13,8 +13,8 @@ Visualization of packet transmission rate, latencies, and file sizes over time.
 
 #**Requirements**
 
-Python 3.x,
+Python 3.x
 
-NetworkX,
+NetworkX
 
 Matplotlib
