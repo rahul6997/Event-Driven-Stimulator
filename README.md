@@ -4,12 +4,17 @@ This program simulates network traffic within a dynamically generated network to
 #**Features**
 
 Dynamic topology generation with support for Barabasi-Albert and Waxman models.
+
 Simulation of packet flow, including handling of packet arrivals and departures.
+
 Calculation and tracking of packet latencies, delivery, and loss.
+
 Visualization of packet transmission rate, latencies, and file sizes over time.
 
 #**Requirements**
 
-Python 3.x
-NetworkX
+Python 3.x,
+
+NetworkX,
+
 Matplotlib
